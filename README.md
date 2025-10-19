@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**AbdulSanaullah/AbdulSanaullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Abdul Sanaullah
+🎓 Master's Student in Computer Science  
+💻 Interested in Deep Learning, Flutter, and AI Projects  
+🌱 Currently learning: Advanced ML/DL Models for Text & Image Classification  
+📫 Reach me: https://www.linkedin.com/in/abdul-sanaullah/
+## Projects
+- 🧠 **Fake News Detection using Deep Learning**
+- 🌿 **Plant Image Classifier using CNN**
+- 💬 **Roman Urdu Hate Speech Detection**
+## 🛠️ Languages & Tools
+Flutter · Python · TensorFlow · Dart · Git · VS Code
