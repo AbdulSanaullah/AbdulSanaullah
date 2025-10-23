@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/0a7e873a-3726-4649-9439-694d702e06ba" /># 👋 Hi, I'm Abdul Sanaullah
+# 👋 Hi, I'm Abdul Sanaullah
 🎓 Master's Student in Computer Science  
 💻 Interested in Deep Learning, Flutter, and AI Projects  
 🌱 Currently learning: Advanced Flutter and ML/DL Models for Text & Image Classification  
