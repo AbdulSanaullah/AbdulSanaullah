@@ -1,14 +1,19 @@
 # 👋 Hi, I'm Abdul Sanaullah
-🎓 Master's Student in Computer Science  
-💻 Interested in Deep Learning, Flutter, and AI Projects  
-🌱 Currently learning: Advanced Flutter and ML/DL Models for Text & Image Classification  
+Converting Ideas into Code & Code into Services to make an impact!
+
+## 🙋‍♂️ About Me 
+👯 I'm working as a Flutter Mobile App Developer (Android & iOS) at (https://linkedin.com/in/https://www.linkedin.com/in/abdul-sanaullah/)
+🎓 Master's Student in Computer Science (https://imsciences.edu.pk/) IM Sciences Peshawar
+💻 Interested in Flutter, Mobile App Development and AI Projects  
+🌱 Currently learning: Advanced Flutter Mobile App and ML/DL Models for AI Projects  
 📫 Reach me: https://www.linkedin.com/in/abdul-sanaullah/
 ## Projects
 - 💻 **Flutter E-commerce App**
+-  💻 **Flutter State Management, RestAPIs and Attractive UI**
 - 💻 **Object Detection App**
-- 🧠 **Fake News Detection using Deep Learning**
-- 🌿 **Plant Image Classifier using CNN**
-- 💬 **Roman Urdu Hate Speech Detection**
+- 🧠 **Fake News Detection NLP**
+- 🌿 **Image Classifier using ML/DL**
+- 💬 **Hate Speech Detection using ML/DL**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abdul.sanaullah.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul_sanaullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-sanaullah/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaNaullah_abdul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sana.sanaullah1245@gmail.com) 
